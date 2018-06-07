@@ -1,0 +1,7 @@
+syntax: glob
+
+.hg
+.idea/
+kz.enu.independentwork.iml
+out
+target
